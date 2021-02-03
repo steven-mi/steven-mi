@@ -6,7 +6,7 @@
 - TBD
 - TBD
 
-**- 🔭 I’m currently working on :**
+**🔭 I’m currently working on :**
 
 **📫 Feel free to reach me on my social network for work-related inquiries**
 <p align="center"> 
