@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">I am a Software Engineer living in Berlin</h3>
+<h3 align="center">I am a Machine Learning Engineer living in Berlin</h3>
 
 
 <h3 align="center">Connect with me on</h3>
