@@ -3,8 +3,9 @@ I'm Steven. I'm a Machine Learning/MLOps Engineer that works on who likes to bui
 
 #### 👨‍💻 Some things I have been working on:
 
-- [group-generator](https://github.com/steven-mi/group-generator): A web application to split your list of items in random subgroups.
-- [huoguoml](https://github.com/huoguoml/huoguoml): A platform for managing and serving Machine Learning models.
+- [group-generator](https://github.com/steven-mi/group-generator): Web application to split your list of items in random subgroups.
+- [huoguoml](https://github.com/huoguoml/huoguoml): Platform for managing and serving Machine Learning models.
+- [mensatalk](https://github.com/MensaTalk/mensatalk_app): React Native-based iOS and Android messaging app
 - [newspipe](https://github.com/steven-mi/newspipe): Pipeline for crawling online newspaper article.
 - [tfx-gpt2](https://github.com/steven-mi/tfx-gpt2): End-end TFX production pipeline for training and running GPT-2.
 
