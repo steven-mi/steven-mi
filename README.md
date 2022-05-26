@@ -1,5 +1,5 @@
 ### 👋 Hi, visitor
-I'm Steven. I'm a Machine Learning/MLOps Engineer that works on who likes to build some usseful tools.
+Hi, I'm Steven, a software engineer in Berlin who likes to work on meaningful and useful products. In my spare time, I either build some useful tools that might be useful or write a blog article to advertise my tools. I enjoy learning new technologies and using them to solve practical use cases.
 
 #### 👨‍💻 Some things I have been working on:
 
