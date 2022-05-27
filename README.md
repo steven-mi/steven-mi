@@ -7,7 +7,7 @@ Hi, I'm Steven, a software engineer in Berlin who likes to work on meaningful an
 - [huoguoml](https://github.com/huoguoml/huoguoml): Platform for managing and serving Machine Learning models.
 - [push-latest-changes-action](https://github.com/steven-mi/push-latest-changes-action): A GitHub Action for pushing files from one repository to another.
 - [mensatalk](https://github.com/MensaTalk/mensatalk_app): React Native-based iOS and Android messaging app.
-- [newspipe](https://github.com/steven-mi/newspipe): Pipeline for crawling online newspaper article.
+- [newspipe](https://github.com/steven-mi/newspipe): Airflow setup and pipeline for crawling online newspaper article.
 - [tfx-gpt2](https://github.com/steven-mi/tfx-gpt2): End-end TFX production pipeline for training and running GPT-2.
 
 In general, I work on quite a few different things and like to explore new techologies. Technologies I used:
