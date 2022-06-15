@@ -11,7 +11,7 @@ Hi, I'm Steven, a software engineer in Berlin who likes to work on meaningful an
 - [newspipe](https://github.com/steven-mi/newspipe): Airflow setup and pipeline for crawling online newspaper article.
 - [tfx-gpt2](https://github.com/steven-mi/tfx-gpt2): End-end TFX production pipeline for training and running GPT-2.
 
-In general, I work on quite a few different things and like to explore new techologies. Technologies I used:
+In general, I work on quite a few different things and like to explore new techologies. Technologies I am using and familiar about:
 <p align="left"> 
 <!-- LANGUAGES -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
