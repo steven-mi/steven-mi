@@ -2,7 +2,7 @@
 
 Hi, I'm Steven, a software engineer in Berlin who likes to work on meaningful and useful products. In my spare time, I either build some useful tools that might be useful or write a blog article to advertise my tools. I enjoy learning new technologies and using them to solve practical use cases.
 
-#### 👨‍💻 Some things I have been working on:
+#### 👨‍💻 Some projects I have worked on:
 
 - [group-generator](https://github.com/steven-mi/group-generator): Web application to split your list of items in random subgroups.
 - [huoguoml](https://github.com/huoguoml/huoguoml): Platform for managing and serving Machine Learning models.
