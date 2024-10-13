@@ -5,7 +5,7 @@ I'm Steven, a Machine Learning Engineer in Berlin who likes to work on useful pr
 **Worked on quite a lot of different projects such as:**
 - [github-contribution-text-generator](https://github.com/steven-mi/github-contribution-text-generator): Write your name on your GitHub commit chart
 - [group-generator](https://github.com/steven-mi/group-generator): Web application to split your group of friends in random N groups
-- [newspipe](https://github.com/steven-mi/newspipe): Airflow + DAGs to crawl German newspapers. More [details](https://newspipe.github.io/)
+- [newspipe](https://github.com/steven-mi/newspipe): Airflow + DAGs to crawl German newspapers. More [details](https://newspipe.github.io/). Dataset available on [kaggle](https://www.kaggle.com/code/pqbsbk/starter-german-news-dataset-f2e333be-6/edit)
 - [huoguoml](https://github.com/huoguoml/huoguoml): Model management and serving framework
 - [yolov3-road-damage-detection](https://github.com/steven-mi/yolov3-road-damage-detection): Code for training YoloV3 to detect road damages and deploying it on edge devices 
 - [tfx-gpt2](https://github.com/steven-mi/tfx-gpt2): TFX pipelines to train GPT-2 on your dataset
